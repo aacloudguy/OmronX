@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronX", "OmronX\OmronX.csproj", "{558F6755-6FD0-454F-90E4-7866E6986A08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronServiceTest", "UnitTestProject1\OmronServiceTest.csproj", "{41524ACB-67F7-4360-803E-65E7A6D71F9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronTelnet", "OmronTelnet\OmronTelnet.csproj", "{792B36E0-7FE1-4731-B089-B675FE9D42C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronTelnetTest", "OmronTelnetTest\OmronTelnetTest.csproj", "{3403A6EE-0509-45E3-984A-7B80DD837018}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronServiceHelper", "OmronServiceHelper\OmronServiceHelper.csproj", "{C43DD81F-5723-469C-A00C-8C9FCAECE33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmronModels", "OmronModels\OmronModels.csproj", "{2C2A1EE6-BE6C-4EC7-8BD9-360514B1EA28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{558F6755-6FD0-454F-90E4-7866E6986A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{558F6755-6FD0-454F-90E4-7866E6986A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{558F6755-6FD0-454F-90E4-7866E6986A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{558F6755-6FD0-454F-90E4-7866E6986A08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41524ACB-67F7-4360-803E-65E7A6D71F9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41524ACB-67F7-4360-803E-65E7A6D71F9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41524ACB-67F7-4360-803E-65E7A6D71F9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41524ACB-67F7-4360-803E-65E7A6D71F9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{792B36E0-7FE1-4731-B089-B675FE9D42C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{792B36E0-7FE1-4731-B089-B675FE9D42C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{792B36E0-7FE1-4731-B089-B675FE9D42C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{792B36E0-7FE1-4731-B089-B675FE9D42C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3403A6EE-0509-45E3-984A-7B80DD837018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3403A6EE-0509-45E3-984A-7B80DD837018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3403A6EE-0509-45E3-984A-7B80DD837018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3403A6EE-0509-45E3-984A-7B80DD837018}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43DD81F-5723-469C-A00C-8C9FCAECE33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43DD81F-5723-469C-A00C-8C9FCAECE33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43DD81F-5723-469C-A00C-8C9FCAECE33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43DD81F-5723-469C-A00C-8C9FCAECE33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2A1EE6-BE6C-4EC7-8BD9-360514B1EA28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2A1EE6-BE6C-4EC7-8BD9-360514B1EA28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2A1EE6-BE6C-4EC7-8BD9-360514B1EA28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2A1EE6-BE6C-4EC7-8BD9-360514B1EA28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

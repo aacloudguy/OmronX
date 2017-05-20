@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="OmronX.Service1" CodeBehind="DroidRequestService.svc.cs" %>
